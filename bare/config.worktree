@@ -1,0 +1,4 @@
+[alias]
+	checkpoint = status --short
+[core]
+	fsmonitor = ../../tools/recovery-index.dat
